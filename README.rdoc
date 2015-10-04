@@ -3,6 +3,7 @@ The Open / Close Principle – Open to extension but closed to modification. Wha
 
 closed to modification.
 class CreditCardInterest
+
 open for extension
 class VisaCreditCardInterestBuilder : public CreditCardInterestBuilder
 
